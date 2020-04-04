@@ -1,0 +1,13 @@
+div {
+    width: 40px;
+    height: 40px;
+    float: left;
+    margin: 5px;
+}
+
+.divone{background: red}
+.divtwo{background: blue}
+.divthree{background: limegreen}
+.divfour{background: pink}
+
+#color {background: white; border: 1px solid black}
